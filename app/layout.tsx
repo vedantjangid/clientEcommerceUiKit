@@ -10,8 +10,8 @@ import './globals.css'
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Store',
-  description: 'Store - The place for all your purchases.',
+  title: 'Essor Ui Kit',
+  description: 'Essor - The place for all your business needs.',
 }
 
 export default function RootLayout({
